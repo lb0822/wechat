@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lb0822/wechat/issues"
   },
-  "homepage": "https://github.com/lb0822/wechat#readme"
+  "homepage": "https://github.com/lb0822/wechat#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
